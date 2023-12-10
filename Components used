@@ -1,0 +1,15 @@
+Components used:
+i)    5V Dc source
+ii)   Inductor - 1mH
+iii)  Capacitor - 3uF
+iv)   Resistor - 100 Ohm
+v)    Pulse generator - Amplittude: 1V, Period: 1/25000, Pulse: 80%
+vi)   MoSFET - Resistance: 0.001 Ohm 
+vii)  Diode 
+viii) Voltage measurement 
+ix)   Display 
+x)    Scope 
+
+
+Input Voltage : 12 V
+Ouput voltage : 47V
